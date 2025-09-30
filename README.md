@@ -119,3 +119,4 @@ POST /predict
 ## 👨‍💻 Muallif
 
 Muslimbek Baratov
+<img width="1921" height="2691" alt="screencapture-127-0-0-1-8000-docs-2025-09-30-12_34_51" src="https://github.com/user-attachments/assets/c4b7fdaa-cc70-4c05-b31d-61ccba4d1ded" />
