@@ -119,6 +119,3 @@ POST /predict
 ## 👨‍💻 Muallif
 
 Muslimbek Baratov
-
-
-Muslim aka, `requirements.txt` faylini ham yozib beraymi, GitHub’da ishlatib ko‘rishingiz uchun?
