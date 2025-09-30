@@ -1,7 +1,6 @@
-```markdown
 # 🏡 House Price Prediction
 
-Uy narxini bashorat qilish uchun **Machine Learning** loyihasi.  
+Uy narxini bashorat qilish uchun **Machine Learning** loyihasi.
 Loyiha **Random Forest Regression** modeliga asoslangan va **FastAPI** yordamida REST API ko‘rinishida taqdim etilgan.
 
 ---
@@ -9,7 +8,6 @@ Loyiha **Random Forest Regression** modeliga asoslangan va **FastAPI** yordamida
 ## 📂 Loyiha tuzilishi
 
 ```
-
 House-Price-Prediction/
 │
 ├── data/               # Dataset fayllari
@@ -27,18 +25,18 @@ House-Price-Prediction/
 │
 ├── requirements.txt    # Kutubxonalar ro‘yxati
 └── README.md           # Hujjat
-
-````
+```
 
 ---
 
 ## ⚙️ O‘rnatish
 
 1. Repo klon qilish:
+
    ```bash
    git clone https://github.com/username/House-Price-Prediction.git
    cd House-Price-Prediction
-````
+   ```
 
 2. Virtual muhit yaratish:
 
@@ -122,7 +120,5 @@ POST /predict
 
 Muslimbek Baratov
 
-```
 
-<img width="1921" height="2691" alt="screencapture-127-0-0-1-8000-docs-2025-09-30-12_34_51" src="https://github.com/user-attachments/assets/ff77fa3d-2c08-4042-9b2c-19512cdd26b3" />
-
+Muslim aka, `requirements.txt` faylini ham yozib beraymi, GitHub’da ishlatib ko‘rishingiz uchun?
